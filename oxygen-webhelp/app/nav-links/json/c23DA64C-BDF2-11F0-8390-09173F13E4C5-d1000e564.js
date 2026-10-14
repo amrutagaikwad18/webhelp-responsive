@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"c23DA64C-BDF2-11F0-8390-09173F13E4C5-d1000e564":{"topics":[{"title":"Ready to get started?","href":"Power_customer_community_231214789\/231214789.html#c23DCBCE-BDF2-11F0-1614-09173F13E4C5","attributes":{"data-id":"c23DCBCE-BDF2-11F0-1614-09173F13E4C5"},"menu":{"hasChildren":false},"tocID":"c23DCBCE-BDF2-11F0-1614-09173F13E4C5-d1000e572","topics":[]}]}};
